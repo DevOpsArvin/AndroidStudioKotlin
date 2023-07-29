@@ -1,3 +1,7 @@
+How to Completely Uninstall Android Studio on Windows?
+https://www.geeksforgeeks.org/how-to-completely-uninstall-android-studio-on-windows/
+
+
 <!-- NetScoutMate_snippet -->
 <!-- activity_main.xml -->
 <?xml version="1.0" encoding="utf-8"?>
